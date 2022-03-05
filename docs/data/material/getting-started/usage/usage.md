@@ -1,6 +1,6 @@
 # Usage
 
-<p class="description">Get started with React and MUI in no time.</p>
+
 
 MUI components work in isolation.
 **They are self-supporting**, and will only inject the styles they need to display.
